@@ -7,7 +7,7 @@ excerpt: Get up and running with Forestry CMS, a git-backed headless CMS with a 
 select: projects/chelsea-landmark.md
 
 ---
-#### Use Forestry as a CMS for Gridsome
+Use Forestry as a CMS for Gridsome
 
 [Forestry](https://forestry.io) is a git-based headless CMS that allows editorial teams to work on Jamstack sites.
 
@@ -23,4 +23,19 @@ When you save content in **Forestry**, it's committed back to your Git repositor
 
 Enjoy the best development and user experience! 🚀
 
-![](/uploads/ian-dooley-281897-unsplash.jpg)
+![/uploads/ian-dooley-281897-unsplash.jpg](https://app.forestry.io/sites/yru2i-hxqcssca/body-media//uploads/ian-dooley-281897-unsplash.jpg)
+
+1. Incidente ocorreu 
+2. neste sábado (5) durante evento
+3. promover a candidatura do presidente americano à reeleição, segundo o 'New York Times'. 
+4. Todos os tripulantes foram resgatados; 
+5. serviço de segurança cita mais de uma dezena de pessoas salvas pelos bombeiros.
+
+    Incidente ocorreu neste sábado (5) durante evento promover 
+    a candidatura do presidente americano à reeleição, 
+    segundo o 'New York Times'. Todos os tripulantes foram resgatados; serviço 
+    de segurança cita mais de uma dezena de pessoas salvas pelos bombeiros.
+
+#### asdf
+
+#### ![](/uploads/cody-davis-253925-unsplash.jpg)
