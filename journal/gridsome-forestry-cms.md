@@ -4,7 +4,7 @@ title: Gridsome with Forestry CMS
 author: Nichlas W. Andersen
 excerpt: Get up and running with Forestry CMS, a git-backed headless CMS with a slick
   editing interface.
-select: projects/chelsea-landmark.md
+select: projects/sunk.md
 
 ---
 Use Forestry as a CMS for Gridsome
@@ -38,4 +38,4 @@ Enjoy the best development and user experience! 🚀
 
 #### Reenact
 
-![](/uploads/cody-davis-253925-unsplash.jpg)
+![blue pineapple](/uploads/cody-davis-253925-unsplash.jpg "pineapple")
